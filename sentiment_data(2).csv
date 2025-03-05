@@ -1,0 +1,117 @@
+text,cleaned_text,predicted_sentiment,keywords,subject,object
+"This super app is truly a lifesaver, offering an all-in-one solution that brings together everything I need in one convenient place, making it incredibly easy to manage various tasks without switching between different apps.",super app truly lifesaver offering allinone solution brings together everything need one convenient place making incredibly easy manage various task without switching different apps,5,"{'subject': 'app offering everything', 'object': 'lifesaver solution place task apps'}",app offering everything,lifesaver solution place task apps
+The app crashes every time I try to order food. So frustrating!,app crash every time try order food frustrating,1,"{'subject': 'crash', 'object': 'app crash time order food'}",crash,app crash time order food
+"Love how I can pay bills, order food, and book rides all in one app!",love pay bill order food book ride one app,5,"{'subject': 'book', 'object': 'love pay bill order food book app'}",book,love pay bill order food book app
+The interface is so cluttered and hard to navigate.,interface cluttered hard navigate,1,"{'subject': 'interface', 'object': 'interface'}",interface,interface
+Best app ever! Saves me so much time and effort.,best app ever save much time effort,5,"{'subject': 'app', 'object': 'app time effort'}",app,app time effort
+The payment feature is so convenient and secure.,payment feature convenient secure,4,"{'subject': 'payment', 'object': 'payment feature secure'}",payment,payment feature secure
+"I tried booking a ride, but the app kept freezing. Disappointed.",tried booking ride app kept freezing disappointed,1,"{'subject': 'app', 'object': 'booking ride'}",app,booking ride
+The food delivery service is fast and reliable!,food delivery service fast reliable,5,"{'subject': 'food', 'object': 'food delivery service'}",food,food delivery service
+The app logs me out randomly. Needs a fix ASAP.,app log randomly need fix asap,1,"{'subject': 'log', 'object': 'log fix asap'}",log,log fix asap
+I love the rewards program! Great way to save money.,love reward program great way save money,5,"{'subject': 'program', 'object': 'love reward program way money'}",program,love reward program way money
+The customer support is terrible. No one responds to queries.,customer support terrible one responds query,1,"{'subject': 'one', 'object': 'customer support query'}",one,customer support query
+This app has made my life so much easier. Highly recommend!,app made life much easier highly recommend,5,"{'subject': 'app life', 'object': 'life'}",app life,life
+The ride-hailing feature is overpriced compared to other apps.,ridehailing feature overpriced compared apps,2,"{'subject': 'feature', 'object': 'feature apps'}",feature,feature apps
+The grocery delivery is always on time and fresh!,grocery delivery always time fresh,5,"{'subject': 'delivery', 'object': 'grocery delivery time'}",delivery,grocery delivery time
+The app is slow and takes forever to load.,app slow take forever load,1,"{'subject': 'app', 'object': 'load'}",app,load
+I love the variety of services offered. Truly a super app!,love variety service offered truly super app,5,"{'subject': 'service', 'object': 'love variety service app'}",service,love variety service app
+The app keeps asking for unnecessary permissions. Not cool.,app keep asking unnecessary permission cool,1,"{'subject': 'app', 'object': 'permission cool'}",app,permission cool
+The food delivery options are amazing! So many restaurants to choose from.,food delivery option amazing many restaurant choose,5,"{'subject': 'option restaurant', 'object': 'food delivery option restaurant'}",option restaurant,food delivery option restaurant
+The app is buggy and needs a major update.,app buggy need major update,1,"{'subject': 'app', 'object': 'update'}",app,update
+I use this app every day for everything. It’s fantastic!,use app every day everything fantastic,5,"{'subject': 'app', 'object': 'app day everything'}",app,app day everything
+The payment feature failed during checkout. Very unreliable.,payment feature failed checkout unreliable,1,"{'subject': 'feature', 'object': 'payment feature checkout'}",feature,payment feature checkout
+The app’s design is sleek and user-friendly.,apps design sleek userfriendly,2,"{'subject': 'apps', 'object': 'apps sleek'}",apps,apps sleek
+The ride-hailing feature is so convenient and affordable.,ridehailing feature convenient affordable,4,"{'subject': 'feature', 'object': 'feature'}",feature,feature
+The app drains my phone battery way too fast.,app drain phone battery way fast,5,"{'subject': 'phone', 'object': 'phone battery way'}",phone,phone battery way
+I love the discounts and coupons available on this app!,love discount coupon available app,5,"{'subject': 'coupon', 'object': 'love discount coupon app'}",coupon,love discount coupon app
+The app doesn’t work offline. Needs improvement.,app doesnt work offline need improvement,1,"{'subject': 'app', 'object': 'offline improvement'}",app,offline improvement
+The food delivery is always late. Not worth it.,food delivery always late worth,5,"{'subject': 'food', 'object': 'food delivery'}",food,food delivery
+This app is my go-to for all my daily needs!,app goto daily need,5,"{'subject': 'goto', 'object': 'daily'}",goto,daily
+The app’s notifications are too frequent and annoying.,apps notification frequent annoying,3,"{'subject': 'apps', 'object': 'apps notification annoying'}",apps,apps notification annoying
+The grocery delivery service is a game-changer!,grocery delivery service gamechanger,4,"{'subject': 'grocery', 'object': 'grocery delivery service'}",grocery,grocery delivery service
+The app freezes every time I try to make a payment.,app freeze every time try make payment,1,"{'subject': 'freeze', 'object': 'app freeze time payment'}",freeze,app freeze time payment
+I love how I can track my orders in real-time!,love track order realtime,5,"{'subject': 'love', 'object': 'love track order realtime'}",love,love track order realtime
+The app’s customer service is unhelpful and slow.,apps customer service unhelpful slow,2,"{'subject': 'apps', 'object': 'apps customer service slow'}",apps,apps customer service slow
+The ride-hailing feature is so reliable and safe.,ridehailing feature reliable safe,5,"{'subject': 'feature', 'object': 'feature'}",feature,feature
+The app’s interface is confusing and not intuitive.,apps interface confusing intuitive,3,"{'subject': 'interface', 'object': 'apps interface'}",interface,apps interface
+I love the seamless integration of all services in one app!,love seamless integration service one app,5,"{'subject': 'integration', 'object': 'integration service app'}",integration,integration service app
+The app takes up too much storage on my phone.,app take much storage phone,4,"{'subject': 'app', 'object': 'storage phone'}",app,storage phone
+The food delivery is always hot and fresh. Great service!,food delivery always hot fresh great service,5,"{'subject': 'food', 'object': 'food delivery service'}",food,food delivery service
+The app’s login process is too complicated.,apps login process complicated,2,"{'subject': 'process', 'object': 'apps login process'}",process,apps login process
+I love the cashback offers on payments. Saves me money!,love cashback offer payment save money,5,"{'subject': 'love', 'object': 'love cashback payment money'}",love,love cashback payment money
+The app crashes every time I try to book a ride.,app crash every time try book ride,1,"{'subject': 'crash', 'object': 'app crash time book'}",crash,app crash time book
+The grocery delivery is always accurate and on time.,grocery delivery always accurate time,5,"{'subject': 'delivery', 'object': 'grocery delivery time'}",delivery,grocery delivery time
+The app’s design is outdated and needs a refresh.,apps design outdated need refresh,3,"{'subject': 'design', 'object': 'apps refresh'}",design,apps refresh
+I love how I can pay for everything with just one app!,love pay everything one app,5,"{'subject': 'love', 'object': 'love everything app'}",love,love everything app
+The app’s search feature is terrible. Hard to find anything.,apps search feature terrible hard find anything,1,"{'subject': 'apps', 'object': 'apps search feature anything'}",apps,apps search feature anything
+The food delivery options are limited in my area.,food delivery option limited area,3,"{'subject': 'food', 'object': 'food delivery option area'}",food,food delivery option area
+This app has everything I need. It’s amazing!,app everything need amazing,5,"{'subject': 'everything', 'object': 'Unknown'}",everything,Unknown
+The app’s notifications are helpful and timely.,apps notification helpful timely,5,"{'subject': 'apps', 'object': 'apps notification'}",apps,apps notification
+The ride-hailing feature is too expensive during peak hours.,ridehailing feature expensive peak hour,2,"{'subject': 'feature', 'object': 'feature peak hour'}",feature,feature peak hour
+I love the convenience of booking rides and ordering food in one app!,love convenience booking ride ordering food one app,5,"{'subject': 'love', 'object': 'love convenience booking ride food app'}",love,love convenience booking ride food app
+The app’s updates always break something. Needs better testing.,apps update always break something need better testing,1,"{'subject': 'update something', 'object': 'apps update testing'}",update something,apps update testing
+The grocery delivery is always fresh and well-packaged.,grocery delivery always fresh wellpackaged,5,"{'subject': 'delivery', 'object': 'grocery delivery'}",delivery,grocery delivery
+The app’s payment feature is so fast and secure.,apps payment feature fast secure,5,"{'subject': 'apps', 'object': 'apps payment feature'}",apps,apps payment feature
+The app’s customer support is responsive and helpful.,apps customer support responsive helpful,5,"{'subject': 'customer', 'object': 'apps customer responsive'}",customer,apps customer responsive
+I love the variety of cuisines available for delivery!,love variety cuisine available delivery,5,"{'subject': 'cuisine', 'object': 'love variety cuisine delivery'}",cuisine,love variety cuisine delivery
+The app’s interface is too cluttered and overwhelming.,apps interface cluttered overwhelming,2,"{'subject': 'apps', 'object': 'apps overwhelming'}",apps,apps overwhelming
+The ride-hailing feature is so convenient for daily commutes.,ridehailing feature convenient daily commute,4,"{'subject': 'feature', 'object': 'feature commute'}",feature,feature commute
+The app’s rewards program is a great way to save money.,apps reward program great way save money,5,"{'subject': 'program', 'object': 'apps program way money'}",program,apps program way money
+The food delivery is always late and cold. Not worth it.,food delivery always late cold worth,5,"{'subject': 'food', 'object': 'food delivery'}",food,food delivery
+I love how I can track my ride in real-time!,love track ride realtime,5,"{'subject': 'love', 'object': 'love track ride realtime'}",love,love track ride realtime
+The app’s login process is seamless and quick.,apps login process seamless quick,5,"{'subject': 'process', 'object': 'apps login process'}",process,apps login process
+The grocery delivery is always reliable and fresh.,grocery delivery always reliable fresh,5,"{'subject': 'delivery', 'object': 'grocery delivery'}",delivery,grocery delivery
+The app’s design is modern and easy to use.,apps design modern easy use,5,"{'subject': 'apps', 'object': 'apps use'}",apps,apps use
+I love the discounts available on ride-hailing!,love discount available ridehailing,4,"{'subject': 'love', 'object': 'love ridehailing'}",love,love ridehailing
+The app’s notifications are too intrusive and annoying.,apps notification intrusive annoying,2,"{'subject': 'apps', 'object': 'apps'}",apps,apps
+The food delivery is always fast and delicious.,food delivery always fast delicious,5,"{'subject': 'delivery', 'object': 'food delivery'}",delivery,food delivery
+The app’s payment feature failed during an important transaction.,apps payment feature failed important transaction,1,"{'subject': 'feature', 'object': 'apps payment feature transaction'}",feature,apps payment feature transaction
+I love how I can do everything in one app. So convenient!,love everything one app convenient,5,"{'subject': 'app', 'object': 'everything app'}",app,everything app
+The app’s search feature is slow and unresponsive.,apps search feature slow unresponsive,2,"{'subject': 'feature', 'object': 'apps search feature'}",feature,apps search feature
+The ride-hailing feature is so affordable and reliable.,ridehailing feature affordable reliable,4,"{'subject': 'feature', 'object': 'feature reliable'}",feature,feature reliable
+The app’s updates have made it much faster and smoother.,apps update made much faster smoother,5,"{'subject': 'update', 'object': 'apps update'}",update,apps update
+I love the variety of services available in one app!,love variety service available one app,5,"{'subject': 'service', 'object': 'love variety service app'}",service,love variety service app
+The app’s customer support is unhelpful and rude.,apps customer support unhelpful rude,1,"{'subject': 'customer', 'object': 'apps customer rude'}",customer,apps customer rude
+The grocery delivery is always on time and well-packaged.,grocery delivery always time wellpackaged,5,"{'subject': 'delivery', 'object': 'grocery delivery time'}",delivery,grocery delivery time
+The app’s interface is intuitive and easy to navigate.,apps interface intuitive easy navigate,5,"{'subject': 'apps', 'object': 'apps navigate'}",apps,apps navigate
+I love the cashback offers on food delivery!,love cashback offer food delivery,5,"{'subject': 'cashback', 'object': 'love cashback food delivery'}",cashback,love cashback food delivery
+The app’s notifications are helpful and not too frequent.,apps notification helpful frequent,5,"{'subject': 'apps', 'object': 'apps notification frequent'}",apps,apps notification frequent
+The ride-hailing feature is so convenient for late-night trips.,ridehailing feature convenient latenight trip,4,"{'subject': 'feature', 'object': 'feature trip'}",feature,feature trip
+The app’s design is sleek and modern.,apps design sleek modern,3,"{'subject': 'apps', 'object': 'apps modern'}",apps,apps modern
+I love how I can pay bills and order food in one app!,love pay bill order food one app,5,"{'subject': 'love', 'object': 'love pay bill order food app'}",love,love pay bill order food app
+The app’s search feature is accurate and fast.,apps search feature accurate fast,5,"{'subject': 'apps', 'object': 'apps search feature'}",apps,apps search feature
+The food delivery is always hot and fresh. Great service!,food delivery always hot fresh great service,5,"{'subject': 'food', 'object': 'food delivery service'}",food,food delivery service
+The app’s payment feature is secure and reliable.,apps payment feature secure reliable,5,"{'subject': 'apps', 'object': 'apps payment feature'}",apps,apps payment feature
+I love the rewards program. It’s a great way to save money!,love reward program great way save money,5,"{'subject': 'program', 'object': 'love reward program way money'}",program,love reward program way money
+The app’s customer support is quick and helpful.,apps customer support quick helpful,5,"{'subject': 'customer', 'object': 'apps customer helpful'}",customer,apps customer helpful
+The grocery delivery is always fresh and on time.,grocery delivery always fresh time,5,"{'subject': 'grocery', 'object': 'grocery delivery time'}",grocery,grocery delivery time
+The app’s interface is clean and easy to use.,apps interface clean easy use,4,"{'subject': 'apps', 'object': 'apps use'}",apps,apps use
+I love the convenience of booking rides and ordering food in one app!,love convenience booking ride ordering food one app,5,"{'subject': 'love', 'object': 'love convenience booking ride food app'}",love,love convenience booking ride food app
+The app’s notifications are timely and useful.,apps notification timely useful,4,"{'subject': 'apps', 'object': 'apps notification'}",apps,apps notification
+The ride-hailing feature is so reliable and safe.,ridehailing feature reliable safe,5,"{'subject': 'feature', 'object': 'feature'}",feature,feature
+The app’s design is user-friendly and modern.,apps design userfriendly modern,5,"{'subject': 'apps', 'object': 'apps'}",apps,apps
+I love the variety of services offered. Truly a super app!,love variety service offered truly super app,5,"{'subject': 'service', 'object': 'love variety service app'}",service,love variety service app
+The app’s updates have improved its performance significantly.,apps update improved performance significantly,5,"{'subject': 'apps', 'object': 'apps performance'}",apps,apps performance
+The food delivery is always fast and delicious.,food delivery always fast delicious,5,"{'subject': 'delivery', 'object': 'food delivery'}",delivery,food delivery
+The app’s payment feature is so convenient and secure.,apps payment feature convenient secure,4,"{'subject': 'payment', 'object': 'apps payment secure'}",payment,apps payment secure
+I love the discounts available on grocery delivery!,love discount available grocery delivery,5,"{'subject': 'love', 'object': 'love discount grocery delivery'}",love,love discount grocery delivery
+The app’s customer support is responsive and helpful.,apps customer support responsive helpful,5,"{'subject': 'customer', 'object': 'apps customer responsive'}",customer,apps customer responsive
+The ride-hailing feature is so affordable and convenient.,ridehailing feature affordable convenient,4,"{'subject': 'feature', 'object': 'feature'}",feature,feature
+The app’s interface is intuitive and easy to navigate.,apps interface intuitive easy navigate,5,"{'subject': 'apps', 'object': 'apps navigate'}",apps,apps navigate
+I love how I can do everything in one app. It’s amazing!,love everything one app amazing,5,"{'subject': 'app', 'object': 'everything app'}",app,everything app
+The app’s notifications are helpful and not too frequent.,apps notification helpful frequent,5,"{'subject': 'apps', 'object': 'apps notification frequent'}",apps,apps notification frequent
+The grocery delivery is always fresh and well-packaged.,grocery delivery always fresh wellpackaged,5,"{'subject': 'delivery', 'object': 'grocery delivery'}",delivery,grocery delivery
+The app’s design is sleek and modern.,apps design sleek modern,3,"{'subject': 'apps', 'object': 'apps modern'}",apps,apps modern
+I love the convenience of booking rides and ordering food in one app!,love convenience booking ride ordering food one app,5,"{'subject': 'love', 'object': 'love convenience booking ride food app'}",love,love convenience booking ride food app
+The app’s updates have made it much faster and smoother.,apps update made much faster smoother,5,"{'subject': 'update', 'object': 'apps update'}",update,apps update
+The food delivery is always hot and fresh. Great service!,food delivery always hot fresh great service,5,"{'subject': 'food', 'object': 'food delivery service'}",food,food delivery service
+The app’s payment feature is secure and reliable.,apps payment feature secure reliable,5,"{'subject': 'apps', 'object': 'apps payment feature'}",apps,apps payment feature
+I love the rewards program. It’s a great way to save money!,love reward program great way save money,5,"{'subject': 'program', 'object': 'love reward program way money'}",program,love reward program way money
+The app’s customer support is quick and helpful.,apps customer support quick helpful,5,"{'subject': 'customer', 'object': 'apps customer helpful'}",customer,apps customer helpful
+The grocery delivery is always fresh and on time.,grocery delivery always fresh time,5,"{'subject': 'grocery', 'object': 'grocery delivery time'}",grocery,grocery delivery time
+The app’s interface is clean and easy to use.,apps interface clean easy use,4,"{'subject': 'apps', 'object': 'apps use'}",apps,apps use
+I love the convenience of booking rides and ordering food in one app!,love convenience booking ride ordering food one app,5,"{'subject': 'love', 'object': 'love convenience booking ride food app'}",love,love convenience booking ride food app
+The app’s notifications are timely and useful.,apps notification timely useful,4,"{'subject': 'apps', 'object': 'apps notification'}",apps,apps notification
+The ride-hailing feature is so reliable and safe.,ridehailing feature reliable safe,5,"{'subject': 'feature', 'object': 'feature'}",feature,feature
+The app’s design is user-friendly and modern.,apps design userfriendly modern,5,"{'subject': 'apps', 'object': 'apps'}",apps,apps
+I love the variety of services offered. Truly a super app!,love variety service offered truly super app,5,"{'subject': 'service', 'object': 'love variety service app'}",service,love variety service app
